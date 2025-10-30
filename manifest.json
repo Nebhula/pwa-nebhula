@@ -1,0 +1,59 @@
+{
+  "name": "SOCIEDAD ORNITOLOGICA SOCNAS",
+  "short_name": "SOCNAS",
+  "start_url": "https://nebhula.github.io/blog-pwa2/?utm_source=pwa",
+  "scope": "https://nebhula.github.io/blog-pwa2/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#bdccaf",
+  "description": "Sociedad Ornitológica de criadores nacionales SOCNAS",
+  "lang": "es",
+  "dir": "ltr",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm71ehhtmnHuqJqP7ZBMGXZXWgtkqoyxh-NLaQiHTHuyjbnTtL-gC7mTw1Tsft-QQ4Wcw5gRE_6WgXC2S1_ep8yJVyC21gnYg__nH9iJ2uUVSFgRszTrviCOix_as_Nj4bY05jbk7gBvlX_4T7cQiMhw3HdygVW76XkvIO72sQgcRFyqZqaYlfqAiVRZY/s1600/nebhula%20%2872%29.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm71ehhtmnHuqJqP7ZBMGXZXWgtkqoyxh-NLaQiHTHuyjbnTtL-gC7mTw1Tsft-QQ4Wcw5gRE_6WgXC2S1_ep8yJVyC21gnYg__nH9iJ2uUVSFgRszTrviCOix_as_Nj4bY05jbk7gBvlX_4T7cQiMhw3HdygVW76XkvIO72sQgcRFyqZqaYlfqAiVRZY/s1600/nebhula%20%2872%29.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQBo_rsWzwkyB30sqPxa-7jceTcgZKXOnemFt1iEYXkyxhno5o9XDgytV1SZ29MozBfEOwxrwS2Cvgx3dUpVnREHFsjuKABcQpDlPd8mhUXZhZQ1MDLXFqyg9WUBiUJ_3wJ8-9GGHdbA86aBvnATeQmFH6ClGT_7jPMvePlJ2CaH46TuuYxlb17HvRtEo/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2876%29.png",
+      "type": "image/png",
+      "sizes": "720x1280",
+      "label": "Inicio del blog"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwHMzG7lSj-E1oxbONAReCnhxpi_lpbZxG-2g1mHyk5ock_TJOq418Ov6KcrjxtW8X62kJFpozZkq3WgZxi5yAdbeu5U5AuDY7F4JBLj48KqFbGiFYzzx1PnU60GhF5gBWOpAQlNkz8j7zO7_mqJaS_IuApJKrePWdoq7DUhRiJV8_pad6e5OSpp-gO1g/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2882%29.png",
+      "type": "image/png",
+      "sizes": "720x1280",
+      "label": "Vista de entradas"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh021f8Q_W8o5zxqsNugpmV7YXQx55uQMktDH8u6CsfVBG-_wwVeH4iY4ndf-4to7sQC33fPquWnl-eJUKAoEFLIiNazb0m7Eq3OK46f34FzOYUrC97ZyDuyMSosblM1J6nBul2WvFlF7XhorUTu9hn60VuX-uOlzvUhdQOeSpSXwFl9A6ETqBLLI9bHWU/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2881%29.png",
+      "type": "image/png",
+      "sizes": "720x1280",
+      "label": "Menú y funciones"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ea4LMYAFCSDu2NoK0N65xQTbKG8xWJ3I_IXesF0F_6g_SVUvdbbUTLbVN22uS3O6OGaeIjrsRZJg4vlx3UAvQI933IsaL7xzM8nDpQ-iSkpdXq-eKAeBi1cX4cgw6erSD7AiYesWz7B4WRKZFPX-WGIN6HuoKodmyZ_2SDYQSvA0CTRQTJPmgKYbmyU/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2880%29.png",
+      "type": "image/png",
+      "sizes": "720x1280",
+      "label": "Contenido destacado"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH5wXOp1WS7_SNtTGmD_qMYh3zeZMwfjoIMDAcqyEwMaMTyjkuf0j60M5KarQYZ_p23RiuEeDqPc6ure2qXeAOJthbl8iRbuUJgUjo39_HJtsz2anm2TpvtLfS32EBNMZgLZdByUZ96zScStNGQ7nToEM9mU1bTBrWSFYutqt5_PAHfzTs1A3HY1hyphenhyphen3U8/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2879%29.png",
+      "type": "image/png",
+      "sizes": "720x1280",
+      "label": "Vista offline"
+    }
+  ],
+  "categories": ["blog", "lifestyle", "productivity"],
+  "prefer_related_applications": false
+}
