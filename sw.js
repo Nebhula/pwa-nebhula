@@ -3,11 +3,11 @@ const CACHE_NAME = "nebhula-blog-cache-v1";
 
 // Archivos que se precachean (ajusta según tu repo)
 const PRECACHE_URLS = [
-  "https://nebhula.github.io/blog-pwa2/",
-  "https://nebhula.github.io/blog-pwa2/index.html",
-  "https://nebhula.github.io/blog-pwa2/offline.html",
+  "https://nebhula.github.io/pwa-nebhula/",
+  "https://nebhula.github.io/pwa-nebhula/index.html",
+  "https://nebhula.github.io/pwa-nebhula/offline.html",
   "https://nebhula.github.io/blog-pwa2/manifest.json",
-  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm71ehhtmnHuqJqP7ZBMGXZXWgtkqoyxh-NLaQiHTHuyjbnTtL-gC7mTw1Tsft-QQ4Wcw5gRE_6WgXC2S1_ep8yJVyC21gnYg__nH9iJ2uUVSFgRszTrviCOix_as_Nj4bY05jbk7gBvlX_4T7cQiMhw3HdygVW76XkvIO72sQgcRFyqZqaYlfqAiVRZY/s1600/nebhula%20%2872%29.png"
+  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBYWMolBojmbzHqEg7elSOwHtfZy2MiQULekUyXdmU3EJpdECP3W1eakKqprrMQN_isBwxM1i2q6rwtZQwg7waQPP2bRlzWbHBeYsXA5z1oKjz_Csh_2UkPtcnKv_PvBNuUWJeNOOwCNGYqWu6DOFadWLgWWk_kZo6Tp7307A0YuiyRrIdGq0niNdelhw/s1600/A%C3%B1adir%20un%20poco%20de%20texto%20%2816%29%20%281%29.png"
 ];
 
 // Durante la instalación: cachear todo
@@ -48,7 +48,7 @@ self.addEventListener("fetch", (event) => {
         if (res) return res;
         // Si no está en cache, devolvemos offline.html si es una página
         if (event.request.destination === "document") {
-          return caches.match("https://nebhula.github.io/blog-pwa2/offline.html");
+          return caches.match("https://nebhula.github.io/pwa-nebhula/offline.html");
         }
       }))
   );
