@@ -5,14 +5,14 @@
   "scope": "https://nebhula.github.io/pwa-nebhula/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#1da3fb",
-  "description": "Recomendaciones de libros Nebhula",
+  "theme_color": "#000",
+  "description": "Noticias sobre cine, libros y games",
   "lang": "es",
   "dir": "ltr",
   "orientation": "any",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBYWMolBojmbzHqEg7elSOwHtfZy2MiQULekUyXdmU3EJpdECP3W1eakKqprrMQN_isBwxM1i2q6rwtZQwg7waQPP2bRlzWbHBeYsXA5z1oKjz_Csh_2UkPtcnKv_PvBNuUWJeNOOwCNGYqWu6DOFadWLgWWk_kZo6Tp7307A0YuiyRrIdGq0niNdelhw/s1600/A%C3%B1adir%20un%20poco%20de%20texto%20%2816%29%20%281%29.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL950AEmJCENxCaOAk9s0aMzt1b2xu0qWbYjlz7Mxou3pg3vmYRinsw7SbOO5NNc7wtXCgkzo1gX6bed9PGrk_qw9JxI37OV8RF0io3l3JRX0W_P671hVgilW_J2y83QHy4Ou1TkN7Fo7joWesZ9b1NyYt6WSrvsBynYqZ2MzGL7dHaScL_T0dilKPwcLd/s1600/nebhula%20%281800%20x%201800%20px%29%20%28192%20x%20192%20px%29.png",
       "sizes": "192x192",
       "type": "image/png"
     },
