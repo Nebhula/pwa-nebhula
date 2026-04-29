@@ -5,7 +5,7 @@
   "scope": "https://nebhula.github.io/pwa-nebhula/",
   "display": "standalone",
   "background_color": "#0383d7",
-  "theme_color": "#0383d7",
+  "theme_color": "#000",
   "description": "Noticias sobre cine, libros y games, estilo de via, deportes etc...",
   "lang": "es",
   "dir": "ltr",
