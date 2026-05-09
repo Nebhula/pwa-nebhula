@@ -101,5 +101,5 @@ function iniciarNotificaciones(canalesSeguidos) {
                     }
                 };
             });
-    }, 3600000);
+    }, 900000);
 }
