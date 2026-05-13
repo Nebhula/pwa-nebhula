@@ -4,7 +4,7 @@
   "start_url": "https://nebhula.github.io/pwa-nebhula/?utm_source=pwa",
   "scope": "https://nebhula.github.io/pwa-nebhula/",
   "display": "standalone",
-  "background_color": "#0383d7",
+  "background_color": "#000",
   "theme_color": "#000",
   "description": "Noticias sobre cine, libros y games, estilo de via, deportes etc...",
   "lang": "es",
